@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.rdfarias.course.entities.User;
 
+
+
+
 @RestController
 @RequestMapping(value = "/users")
 public class UserResource {
